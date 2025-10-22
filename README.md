@@ -1,1 +1,1 @@
-# subname_ext
+# extract subredit name list from json file
